@@ -4,7 +4,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://irulappan151204.github.io/portfolio/" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
